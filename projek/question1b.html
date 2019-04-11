@@ -1,0 +1,94 @@
+<html>
+<head>
+	<title>Who Wants to be a Millionaire?</title>
+	<link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/en/5/51/WWTBAM2010falllogo.png"/>	
+	<link rel="stylesheet" type="text/css" href="question.css">
+	<script type="text/javascript" src="questions.js"></script>
+	<style type="text/css">a:link{text-decoration: none;}</style>
+	<!--<script>setTimeout(function(){window.location.href='gameover.html'},30000);</script>-->
+</head>
+<body style = "text-align: center;  color: white" onload="loadQuestion(0)" >
+	<audio autoplay loop>
+   		<source src="stufe_1.mp3" >
+  	</audio>
+	<div id="loader"></div>
+	<div class="animate-bottom" style="display: none;" id="myDiv">
+		<div class = " help hcontainer row clearfix; ">
+			<div>
+				<!--<button id="help1" style="background-color:rgba(0,0,0,0); border:0px;"></button>-->
+				<img src="http://vignette4.wikia.nocookie.net/millionaire/images/7/73/Classic5050.png/revision/latest?cb=20160407180209" id="help1" value="" name="help1" >
+			</div>
+			<div>
+				<!--<button id="help2" style="background-color:rgba(0,0,0,0); border:0px;"></button>-->
+				<img src="ClassicShuffle2.png" id="help2" value="" name="help2">
+			</div>
+			<div>
+				<!--<button id="help3" style="background-color:rgba(0,0,0,0); border:0px;"></button>-->
+			  	<img src="ATA.png" id="help3" value="" name="help3">
+			</div>
+  		</div>
+
+		<div id="circle" style="font-size:50px">
+		    <div id="text">
+				<span id="time"></span>
+		    </div>
+		</div>
+
+		<!--<div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$1,000,000
+		  	</div>
+		   	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$500,000
+		  	</div> 		
+		   	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$250,000
+	  		</div>  		
+		   	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$125,000
+		  	</div>
+			<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$64,000
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$32,000
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$16,000
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$8,000
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$4,000
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$2,000
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$1,000
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$500
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$300
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$200
+		  	</div>
+		  	<div class = "span_4 collumn" style = "border: 3px solid black; border-radius: 7px; text-align: center; padding: 8px; margin-right: 2.5px;">$100
+		  	</div>
+		</div>-->
+
+		<div href="#" class="button1 prize1 prize2" id = "prize"></div>
+
+
+		<div style = "text-align: center; padding: 70px;">
+			<h3 href="#" class="quest ask" id="ask" ></h3>
+			<div  style = "width: 100%; text-align: center;">
+				<div class = " container hcontainer row clearfix;">
+					<div href="#" class="button answer column" id="answera" style="color:white;"></div>
+					<div href="#" class="button answer column" id="answerb" style="color:white;"></div>
+				</div>
+				<div class = "container hcontainer row clearfix;">
+					<div href="#" class="button answer column" id="answerc" style="color:white;"></div>
+					<div href="#" class="button answer column" id="answerd" style="color:white;"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div>
+		<footer id = "footer">
+		Universitas Multimedia Nusantara 2018
+		</footer>
+	</div>
+</body>
+
+</html>

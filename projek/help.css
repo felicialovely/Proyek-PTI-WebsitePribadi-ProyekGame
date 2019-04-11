@@ -1,0 +1,227 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Cabin', sans-serif;
+}
+body{
+	margin:0px;
+	padding: 0px;
+	background-image: url(https://onwardigo.files.wordpress.com/2016/05/millionaire01.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+/*For mobile phones:*/
+[class*="col-"]{
+	width: 100%;
+}
+
+@media only screen and (min-width: 600px){
+	/*For tablets: (ukuran layar lebih besar dari 600px)*/
+	.col-m-1{width: 8.33%;}
+	.col-m-2{width: 16.66%;}
+	.col-m-3{width: 25%;}
+	.col-m-4{width: 33.33%;}
+	.col-m-5{width: 41.66%;}
+	.col-m-6{width: 50%;}
+	.col-m-7{width: 58.33%;}
+	.col-m-8{width: 66.66%;}
+	.col-m-9{width: 75%;}
+	.col-m-10{width: 83.33%;}
+	.col-m-11{width: 91.66%;}
+	.col-m-12{width: 100%;}
+}
+@media only screen and (min-width: 768px){
+	/*For Desktop: (ukuran layar lebih besar dari 768px)*/
+	.col-1{width: 8.33%;}
+	.col-2{width: 16.66%;}
+	.col-3{width: 25%;}
+	.col-4{width: 33.33%;}
+	.col-5{width: 41.66%;}
+	.col-6{width: 50%;}
+	.col-7{width: 58.33%;}
+	.col-8{width: 66.66%;}
+	.col-9{width: 75%;}
+	.col-10{width: 83.33%;}
+	.col-11{width: 91.66%;}
+	.col-12{width: 100%;}
+}
+.row:after{
+	content: '';
+	clear: both;
+	display: block;
+	margin: 0px;
+}
+.row div{
+	float: left
+}
+
+.padding-8{
+	padding: 8px;
+}
+.padding-16{
+	padding: 16px;
+}
+.padding-32{
+	padding: 32px;
+}
+.padding-64{
+	padding: 64px;
+}
+.padding-128{
+	padding: 128px;
+}
+h1{
+	font-size: 64px;
+}
+h4{
+	font-size: 18px;
+}
+.center{
+	text-align: center;
+}
+.black{
+	background-color: rgba(20,25,30,0.7);
+	color: #eee;
+}
+.white{
+	background-color: rgba(245,240,230,0.7);
+	color: #000;
+}
+.circle{
+	border-radius: 50%;
+}
+.center{
+	text-align: center;
+}
+
+nav li a{
+	transition-property: color;
+	-webkit-transition-property: color;
+	transition-duration: 0.5s;
+	transition-timing-function: linear;
+	text-decoration: none;
+	font-size: 24px;
+	color: #999;
+	font-weight: 300;
+}
+nav li a:hover{
+	color: #fff;
+}
+table{
+	border: 1px solid #ccc;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+table tr{
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+table th, table td{
+	padding: 10px;
+	text-align: center;
+}
+table th{
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+@media screen and (max-width: 600px){
+	table{
+		border: 0;
+	}
+	table head{
+		display: none;
+	}
+	table tr{
+		margin-bottom: 10px;
+		display: block;
+		border-bottom: 2px solid #ddd;
+	}
+	table td{
+		display: block;
+		text-align: right;
+		font-size: 13px;
+		border-bottom: 1px dotted #ccc;
+	}
+	table td:last-child{
+		border-bottom: 0;
+	}
+	table td:before{
+		content: attr(data-label);
+		float: left;
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+	.hcontainer{
+		display:block;
+		transition: all.0.2s ease-in-out;
+  		margin:10px;
+	}
+}
+.gambar img{
+  	transition: all.0.2s ease-in-out;
+  	margin:10px;
+}
+.gambar img:hover{
+	transform: scale(1.1);
+}
+.help li{
+	display: inline-block;
+	padding: 24px 160px;
+}
+img{
+	width: 5%;
+	height:6%;
+	position: relative;
+	margin: auto;	
+}
+.hcontainer{
+	display: flex;
+}
+.row{
+	margin: auto;
+	max-width: 1000px;
+	width: 100%;
+}
+.center1{
+	float:center;
+}
+.clearfix {
+	display: inline;
+}
+.posleft{
+	display: inline-block;
+	text-align: left;
+}
+#footer{
+	clear: both;
+	position: relative;
+	margin-top: 80px;
+	bottom: 0px;
+	text-align: center;
+	width: 100%;
+}
+.menu{
+	margin: auto;
+  border-radius: 7px;
+  text-align: center;
+  padding: 1px;
+  margin-top:20px;
+  margin-bottom: 10px;
+  text-decoration: none; 
+  font-size: 25px;
+  background-color: rgba(140, 140, 140, 0.5);
+ }
+ .menu:hover{
+ background-color: transparent;
+  border: solid #4d75b3;
+  box-shadow: 0 5px #006699;
+ }
+.menu:active{
+  box-shadow: 0 5px #003380;
+  transform: translateY(4px);
+  background-color: transparent;
+}

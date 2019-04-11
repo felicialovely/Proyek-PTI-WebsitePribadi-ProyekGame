@@ -1,0 +1,43 @@
+body{
+  background-image: url(http://cdn26.us1.fansshare.com/photo/gameshow/wallpaper-background-179631246.jpg);
+  background-size: cover;
+  color: white;
+  font-family: 'Cabin', sans-serif;
+}
+
+#footer{
+	clear: both;
+	position: relative;
+	bottom: 0;
+	text-align: center;
+	width: 100%;
+}
+
+img{
+  width: 34%;
+
+}
+
+.menu{
+ 
+  border-radius: 7px;
+  text-align: center;
+  padding: 8px;
+  margin-bottom: 10px;
+  text-decoration: none; 
+  font-size: 25px;
+  background-color: rgba(140, 140, 140, 0.3);
+
+ }
+ .menu:hover{
+
+ background-color: transparent;
+  border: solid #4d75b3;
+  box-shadow: 0 5px #006699;
+
+ }
+.menu:active{
+  box-shadow: 0 5px #003380;
+  transform: translateY(4px);
+  background-color: transparent;
+}

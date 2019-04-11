@@ -1,0 +1,166 @@
+*{
+	box-sizing:border-box;
+	font-family: Courier New;
+}
+
+body{
+	margin:0px;
+	padding:0px;
+}
+
+.navlogo{
+	float:left ;margin-bottom:10px;
+}
+.navmenu{
+	float:right;margin-left:60px;
+}
+
+.banner1{
+	background-image:url("blue.jpg"); 
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+@media only screen and (min-width:600px){
+	/* For tablets:(ukuran layar lebih besar dari 600px)*/
+	#keterangan{
+	font-size : 42px;
+	position:relative;
+	bottom: 230px;
+	width:100%;
+	}
+	#keterangan2{
+	font-size : 42px;
+	position:relative;
+	bottom: 385px;
+	width:100%;
+	}
+	.col-m-1{width:8.33%;}
+	.col-m-2{width:16.66%;}
+	.col-m-3{width:25%;}
+	.col-m-4{width:33.33%;}
+	.col-m-5{width:41.66%;}
+	.col-m-6{width:50%;}
+	.col-m-7{width:58.33%;}
+	.col-m-8{width:66.66%;}
+	.col-m-9{width:75%;}
+	.col-m-10{width:83.33%;}
+	.col-m-11{width:91.66%;}
+	.col-m-12{width:100%;}
+}
+
+@media only screen and (min-width:600px){
+	/* For dekstop:(ukuran layar lebih besar dari 768px)*/
+	.col-1{width:8.33%;}
+	.col-2{width:16.66%;}
+	.col-3{width:25%;}
+	.col-4{width:33.33%;}
+	.col-5{width:41.66%;}
+	.col-6{width:50%;}
+	.col-7{width:58.33%;}
+	.col-8{width:66.66%;}
+	.col-9{width:75%;}
+	.col-10{width:83.33%;}
+	.col-11{width:91.66%;}
+	.col-12{width:100%;}
+}
+
+
+.row:after{
+	content:'';
+	clear:both;
+	display:block;
+	margin:0px;
+}
+.row div{
+	float:left;
+}
+
+nav li{
+	display:inline-block;
+	padding:0 16px;
+}
+nav li a{
+	transition-property:color;
+	-webkit-transition-property:color;
+	transition-duration:0.5s;
+	transition-timing-function: linear;
+	text-decoration:none;
+	font-size:20px;
+	color:#999;
+	font-weight: 300;
+}
+nav li a:hover{
+	color:#fff;
+}
+
+nav img{
+	max-width: 100%;
+	height: auto;
+	visibility:visible;
+}
+img{
+	max-width: 100%;
+	height: auto;
+	visibility:visible;
+}
+
+.padding-16{
+	padding:16px;
+}
+
+h1{
+	font-size:64px;
+}
+
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+	float:right;
+}
+@media only screen and (max-width:600px){
+	h1{
+	font-size:32px;
+	}
+
+	#keterangan
+	{
+	font-size : 18px;
+	position:relative;
+	bottom: 90px;
+	left:120px;
+	width:100px;
+	}
+	#keterangan2{
+	font-size : 18px;
+	position:relative;
+	bottom: 142px;
+	width:100%;
+	}
+}
+
+.menu{
+  border-radius: 7px;
+  text-align: center;
+  padding: 8px;
+  margin-bottom: 10px;
+  text-decoration: none; 
+  font-size: 25px;
+  background-color: rgba(140, 140, 140, 0.3);
+
+ }
+ .menu:hover{
+
+ background-color: transparent;
+  border: solid #4d75b3;
+  box-shadow: 0 5px #006699;
+
+ }
+.menu:active{
+  box-shadow: 0 5px #003380;
+  transform: translateY(4px);
+  background-color: transparent;
+}

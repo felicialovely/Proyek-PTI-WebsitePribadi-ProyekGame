@@ -1,0 +1,766 @@
+<LIST>
+	<QUESTIONS>
+		<ID>1</ID>
+		<SUB>a</SUB>
+		<ASK>What is the capital of Japan?</ASK>
+		<ANSWERA value="false">Kobe</ANSWERA>
+		<ANSWERB value="false">Nagasaki</ANSWERB>
+		<ANSWERC value="true">Tokyo</ANSWERC>
+		<ANSWERD value="false">Kyoto</ANSWERD>
+		<PRIZE>$100</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>1</ID>
+		<SUB>b</SUB>
+		<ASK>How many players are there in a baseball team?</ASK>
+		<ANSWERA value="false">8</ANSWERA>
+		<ANSWERB value="true">9</ANSWERB>
+		<ANSWERC value="false">10</ANSWERC>
+		<ANSWERD value="false">11</ANSWERD>
+		<PRIZE>$100</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>1</ID>
+		<SUB>c</SUB>
+		<ASK>Who is the Greek goddess of wisdom, war, the arts, industry, justice, and skill?</ASK>
+		<ANSWERA value="false">Persephone</ANSWERA>
+		<ANSWERB value="false">Hera</ANSWERB>
+		<ANSWERC value="true">Athena</ANSWERC>
+		<ANSWERD value="false">Arachne</ANSWERD>
+		<PRIZE>$100</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>1</ID>
+		<SUB>d</SUB>
+		<ASK>Which country from the following is famous for its Pyramids?</ASK>
+		<ANSWERA value="false">Kenya</ANSWERA>
+		<ANSWERB value="false">Morocco</ANSWERB>
+		<ANSWERC value="false">South Africa</ANSWERC>
+		<ANSWERD value="true">Egypt</ANSWERD>
+		<PRIZE>$100</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>1</ID>
+		<SUB>e</SUB>
+		<ASK>Homonyms are words that have the same spelling or pronunciation, but not necessarily the same meaning. What do you call words that have the opposite meaning to each other?</ASK>
+		<ANSWERA value="false">Ethnonyms</ANSWERA>
+		<ANSWERB value="false">Synonyms</ANSWERB>
+		<ANSWERC value="false">Phytonyms</ANSWERC>
+		<ANSWERD value="true">Antonyms</ANSWERD>
+		<PRIZE>$100</PRIZE>
+	</QUESTIONS>
+
+	<QUESTIONS>
+		<ID>2</ID>
+		<SUB>a</SUB>
+		<ASK>What is the most populous island in Indonesia?</ASK>
+		<ANSWERA value="true">Java</ANSWERA>
+		<ANSWERB value="false">Sumatra</ANSWERB>
+		<ANSWERC value="false">Sulawesi</ANSWERC>
+		<ANSWERD value="false">Aceh</ANSWERD>
+		<PRIZE>$200</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>2</ID>
+		<SUB>b</SUB>
+		<ASK>What percentage of the world is covered in water?</ASK>
+		<ANSWERA value="false">23%</ANSWERA>
+		<ANSWERB value="false">50%</ANSWERB>
+		<ANSWERC value="true">71%</ANSWERC>
+		<ANSWERD value="false">89%</ANSWERD>
+		<PRIZE>$200</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>2</ID>
+		<SUB>c</SUB>
+		<ASK>What is the name of Donald Duck’s girlfriend?</ASK>
+		<ANSWERA value="false">Mickey Mouse</ANSWERA>
+		<ANSWERB value="false">Goofy</ANSWERB>
+		<ANSWERC value="false">Minnie Mouse</ANSWERC>
+		<ANSWERD value="true">Daisy Duck</ANSWERD>
+		<PRIZE>$200</PRIZE>
+	</QUESTIONS>
+		<QUESTIONS>
+		<ID>2</ID>
+		<SUB>d</SUB>
+		<ASK>What momentous occasion are you witnessing if you hear the words "'til death us do part"?</ASK>
+		<ANSWERA value="true">Wedding</ANSWERA>
+		<ANSWERB value="false">Birthday</ANSWERB>
+		<ANSWERC value="false">Christening</ANSWERC>
+		<ANSWERD value="false">Bar Mitzvah</ANSWERD>
+		<PRIZE>$200</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>2</ID>
+		<SUB>e</SUB>
+		<ASK>Which one of these princesses is not part of Disney's official princess lineup?</ASK>
+		<ANSWERA value="false">Rapunzel</ANSWERA>
+		<ANSWERB value="false">Merida</ANSWERB>
+		<ANSWERC value="false">Pocahontas</ANSWERC>
+		<ANSWERD value="true">Elsa</ANSWERD>
+		<PRIZE>$200</PRIZE>
+	</QUESTIONS>
+
+	<QUESTION>
+		<ID>3</ID>
+		<SUB>a</SUB>
+		<ASK>On which river does the capital of England lie?</ASK>
+		<ANSWERA value="true">Thames</ANSWERA>
+		<ANSWERB value="false">Tees</ANSWERB>
+		<ANSWERC value="false">Severn</ANSWERC>
+		<ANSWERD value="false">Tyne</ANSWERD>
+		<PRIZE>$300</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>3</ID>
+		<SUB>b</SUB>
+		<ASK>What colour are emeralds?</ASK>
+		<ANSWERA value="false">Dark Purple</ANSWERA>
+		<ANSWERB value="true">Green</ANSWERB>
+		<ANSWERC value="false">Red</ANSWERC>
+		<ANSWERD value="false">Colorless</ANSWERD>
+		<PRIZE>$300</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>3</ID>
+		<SUB>c</SUB>
+		<ASK>What number do you get by adding any opposite sides of a dice?</ASK>
+		<ANSWERA value="false">5</ANSWERA>
+		<ANSWERB value="true">7</ANSWERB>
+		<ANSWERC value="false">10</ANSWERC>
+		<ANSWERD value="false">12</ANSWERD>
+		<PRIZE>$300</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>3</ID>
+		<SUB>d</SUB>
+		<ASK>Which chess piece can only move diagonally?</ASK>
+		<ANSWERA value="false">Rooks</ANSWERA>
+		<ANSWERB value="false">Knights</ANSWERB>
+		<ANSWERC value="true">Bishops</ANSWERC>
+		<ANSWERD value="false">Pawns</ANSWERD>
+		<PRIZE>$300</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>3</ID>
+		<SUB>e</SUB>
+		<ASK>"May the odds be ever in your favor" is the famous quote from a movie which title is ____.</ASK>
+		<ANSWERA value="false">Rocky</ANSWERA>
+		<ANSWERB value="false">Star Wars</ANSWERB>
+		<ANSWERC value="true">The Hunger Games</ANSWERC>
+		<ANSWERD value="false">Gladiator</ANSWERD>
+		<PRIZE>$300</PRIZE>
+	</QUESTIONS>
+
+	<QUESTION>
+		<ID>4</ID>
+		<SUB>a</SUB>
+		<ASK>What is the name of the dog in Shaun the Sheep?</ASK>
+		<ANSWERA value="false">Timmy</ANSWERA>
+		<ANSWERB value="false">Shaun</ANSWERB>
+		<ANSWERC value="true">Bitzer</ANSWERC>
+		<ANSWERD value="false">Shirley</ANSWERD>
+		<PRIZE>$500</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>4</ID>
+		<SUB>b</SUB>
+		<ASK>Who was created by Gepetto the woodcarver?</ASK>
+		<ANSWERA value="true">Pinocchio</ANSWERA>
+		<ANSWERB value="false">Ravenna</ANSWERB>
+		<ANSWERC value="false">Maleficent</ANSWERC>
+		<ANSWERD value="false">Freya</ANSWERD>
+		<PRIZE>$500</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>4</ID>
+		<SUB>c</SUB>
+		<ASK>Buenos Aires is the capital of which country?</ASK>
+		<ANSWERA value="false">Phillipines</ANSWERA>
+		<ANSWERB value="false">Canada</ANSWERB>
+		<ANSWERC value="false">Japan</ANSWERC>
+		<ANSWERD value="true">Argentina</ANSWERD>
+		<PRIZE>$500</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>4</ID>
+		<SUB>d</SUB>
+		<ASK>In the game Mario Bros, Mario is portrayed as an Italian-American plumber who has to defeat creatures that have been comin from the sewers below New York City. What was Mario's original name?</ASK>
+		<ANSWERA value="true">Jumpman</ANSWERA>
+		<ANSWERB value="false">Luigi</ANSWERB>
+		<ANSWERC value="false">Hammer Bro</ANSWERC>
+		<ANSWERD value="false">Wario</ANSWERD>
+		<PRIZE>$500</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>4</ID>
+		<SUB>e</SUB>
+		<ASK>What are the names of Cinderella's evil stepsisters?</ASK>
+		<ANSWERA value="false">Ana and Diana</ANSWERA>
+		<ANSWERB value="false">Beatrice and Daphine</ANSWERB>
+		<ANSWERC value="true">Anastasia and Drizella</ANSWERC>
+		<ANSWERD value="false">Mary and Prudence</ANSWERD>
+		<PRIZE>$500</PRIZE>
+	</QUESTIONS>
+
+	<QUESTION>
+		<ID>5</ID>
+		<SUB>a</SUB>
+		<ASK>Which of the following foods has the lowest water content?</ASK>
+		<ANSWERA value="false">Fresh carrots</ANSWERA>
+		<ANSWERB value="false">Fresh tomatoes</ANSWERB>
+		<ANSWERC value="false">Fresh celery</ANSWERC>
+		<ANSWERD value="true">Whole milk</ANSWERD>
+		<PRIZE>$1,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>5</ID>
+		<SUB>b</SUB>
+		<ASK>Manuel Neuer from the Germany team was the recipient of the Golden Glove award for being the best goalkeeper of the FIFA World Cup 2014. On the other hand, which Argentine footballer won the Golden Ball award?</ASK>
+		<ANSWERA value="true">Lionel Messi</ANSWERA>
+		<ANSWERB value="false">Thomas Muller</ANSWERB>
+		<ANSWERC value="false">Arjen Robben</ANSWERC>
+		<ANSWERD value="false">Philipp Lahm</ANSWERD>
+		<PRIZE>$1,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>5</ID>
+		<SUB>c</SUB>
+		<ASK>What is the capital of Haiti?</ASK>
+		<ANSWERA value="false">Santo Domingo</ANSWERA>
+		<ANSWERB value="false">San Juan</ANSWERB>
+		<ANSWERC value="true">Port au Prince</ANSWERC>
+		<ANSWERD value="false">Kingston</ANSWERD>
+		<PRIZE>$1,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>5</ID>
+		<SUB>d</SUB>
+		<ASK>In poetry, how many lines are in a quatrain?</ASK>
+		<ANSWERA value="false">Fourteen</ANSWERA>
+		<ANSWERB value="false">Three</ANSWERB>
+		<ANSWERC value="true">Four</ANSWERC>
+		<ANSWERD value="false">Five</ANSWERD>
+		<PRIZE>$1,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>5</ID>
+		<SUB>e</SUB>
+		<ASK>Which one of the following is not considered as noble gas?</ASK>
+		<ANSWERA value="false">Xenon</ANSWERA>
+		<ANSWERB value="false">Radon</ANSWERB>
+		<ANSWERC value="true">Einsteinium</ANSWERC>
+		<ANSWERD value="false">Krypton</ANSWERD>
+		<PRIZE>$1,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>6</ID>
+		<SUB>a</SUB>
+		<ASK>The fear of flying is also known as ____.</ASK>
+		<ANSWERA value="true">Aerophobia</ANSWERA>
+		<ANSWERB value="false">Planophobia</ANSWERB>
+		<ANSWERC value="false">Flitophobia</ANSWERC>
+		<ANSWERD value="false">Cynophobia</ANSWERD>
+		<PRIZE>$2,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>6</ID>
+		<SUB>b</SUB>
+		<ASK>Who invented the programming language C++?</ASK>
+		<ANSWERA value="false">Grace Hopper</ANSWERA>
+		<ANSWERB value="false">John Backus</ANSWERB>
+		<ANSWERC value="false">Alan Cooper</ANSWERC>
+		<ANSWERD value="true">Bjarne Stroustrup</ANSWERD>
+		<PRIZE>$2,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>6</ID>
+		<SUB>c</SUB>
+		<ASK>Which Italian city is famous for its canals?</ASK>
+		<ANSWERA value="false">Milan</ANSWERA>
+		<ANSWERB value="false">Rome</ANSWERB>
+		<ANSWERC value="false">Verona</ANSWERC>
+		<ANSWERD value="true">Venice</ANSWERD>
+		<PRIZE>$2,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>6</ID>
+		<SUB>d</SUB>
+		<ASK>How many valves does a trumpet have?</ASK>
+		<ANSWERA value="true">3</ANSWERA>
+		<ANSWERB value="false">4</ANSWERB>
+		<ANSWERC value="false">5</ANSWERC>
+		<ANSWERD value="false">6</ANSWERD>
+		<PRIZE>$2,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>6</ID>
+		<SUB>e</SUB>
+		<ASK>Who wrote Twilight Saga of novels?</ASK>
+		<ANSWERA value="false">Margaret Atwood</ANSWERA>
+		<ANSWERB value="false">J.K. Rowling</ANSWERB>
+		<ANSWERC value="true">Stephenie Meyer</ANSWERC>
+		<ANSWERD value="false">Sylvia Plath</ANSWERD>
+		<PRIZE>$2,000</PRIZE>
+	</QUESTIONS>
+
+	<QUESTION>
+		<ID>7</ID>
+		<SUB>a</SUB>
+		<ASK>What is the name of the blue glowing square that Loki uses as a weapon in The Avengers (2012)?</ASK>
+		<ANSWERA value="false">The Bloodstone</ANSWERA>
+		<ANSWERB value="false">The Forever Cube</ANSWERB>
+		<ANSWERC value="true">The Tesseract</ANSWERC>
+		<ANSWERD value="false">The Infinity Gem</ANSWERD>
+		<PRIZE>$4,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>7</ID>
+		<SUB>b</SUB>
+		<ASK>Superman is a fictional superhero from what fictional planet?</ASK>
+		<ANSWERA value="true">Krypton</ANSWERA>
+		<ANSWERB value="false">Asgard</ANSWERB>
+		<ANSWERC value="false">Starlag</ANSWERC>
+		<ANSWERD value="false">Metropolis University</ANSWERD>
+		<PRIZE>$4,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>7</ID>
+		<SUB>c</SUB>
+		<ASK>Reaching number four on the Billboard Hot 100 in 2015, which band that features Nicholas Petricca as its lead singer, released the song "Shut Up and Dance"?</ASK>
+		<ANSWERA value="false">30 Seconds to Mars</ANSWERA>
+		<ANSWERB value="false">Little Big Planet</ANSWERB>
+		<ANSWERC value="true">Walk the Moon</ANSWERC>
+		<ANSWERD value="false">Moon Landing</ANSWERD>
+		<PRIZE>$4,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>7</ID>
+		<SUB>d</SUB>
+		<ASK>Bavarian Motor Works, usually known under its abbreviation BMW, is a German luxury vehicles, motorcycle and engine manufacturing company founded in 1916. In which German city is the BMW headquartered?</ASK>
+		<ANSWERA value="false">Berlin</ANSWERA>
+		<ANSWERB value="true">Munich</ANSWERB>
+		<ANSWERC value="false">Bavaria</ANSWERC>
+		<ANSWERD value="false">Stuttgart</ANSWERD>
+		<PRIZE>$4,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>7</ID>
+		<SUB>e</SUB>
+		<ASK>What is the capital of West Borneo, nicknamed "Equatorial City (Kota Kathulistiwa)"?</ASK>
+		<ANSWERA value="false">Palangkaraya</ANSWERA>
+		<ANSWERB value="false">Banjarmasin</ANSWERB>
+		<ANSWERC value="true">Pontianak</ANSWERC>
+		<ANSWERD value="false">Samarinda</ANSWERD>
+		<PRIZE>$4,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>8</ID>
+		<SUB>a</SUB>
+		<ASK>Humans are most sensitive to which of the following basic tastes?</ASK>
+		<ANSWERA value="false">Sweet</ANSWERA>
+		<ANSWERB value="false">Salty</ANSWERB>
+		<ANSWERC value="true">Bitter</ANSWERC>
+		<ANSWERD value="false">Sour</ANSWERD>
+		<PRIZE>$8,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>8</ID>
+		<SUB>b</SUB>
+		<ASK>What is the largest joint in the human body?</ASK>
+		<ANSWERA value="false">Hip</ANSWERA>
+		<ANSWERB value="true">Knee</ANSWERB>
+		<ANSWERC value="false">Big toe</ANSWERC>
+		<ANSWERD value="false">Elbow</ANSWERD>
+		<PRIZE>$8,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>8</ID>
+		<SUB>c</SUB>
+		<ASK>Which of the following has been known to curdle milk?</ASK>
+		<ANSWERA value="false">Sugar</ANSWERA>
+		<ANSWERB value="true">Thunderstorms</ANSWERB>
+		<ANSWERC value="false">Loud music</ANSWERC>
+		<ANSWERD value="false">Acidic soil</ANSWERD>
+		<PRIZE>$8,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>8</ID>
+		<SUB>d</SUB>
+		<ASK>Which toy company takes its name from the Danish phrase for "play well"?</ASK>
+		<ANSWERA value="true">Lego</ANSWERA>
+		<ANSWERB value="false">Hasbro</ANSWERB>
+		<ANSWERC value="false">Mattel</ANSWERC>
+		<ANSWERD value="false">Play-Doh</ANSWERD>
+		<PRIZE>$8,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>8</ID>
+		<SUB>e</SUB>
+		<ASK>"A wizard is never late, nor is he early. He arrives precisely when he means to." is a quote from which fictional character?</ASK>
+		<ANSWERA value="false">Albus Dumbledore</ANSWERA>
+		<ANSWERB value="false">Harry Potter</ANSWERB>
+		<ANSWERC value="true">Gandalf</ANSWERC>
+		<ANSWERD value="false">Merlin</ANSWERD>
+		<PRIZE>$8,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>9</ID>
+		<SUB>a</SUB>
+		<ASK>What is the currency of France?</ASK>
+		<ANSWERA value="false">Dollar</ANSWERA>
+		<ANSWERB value="false">Franc</ANSWERB>
+		<ANSWERC value="true">Euro</ANSWERC>
+		<ANSWERD value="false">Krona</ANSWERD>
+		<PRIZE>$16,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>9</ID>
+		<SUB>b</SUB>
+		<ASK>What is the name of the group of boys that Peter Pan hangs out with?</ASK>
+		<ANSWERA value="true">The Lost Boys</ANSWERA>
+		<ANSWERB value="false">The Lost Buys</ANSWERB>
+		<ANSWERC value="false">The Lost Toys</ANSWERC>
+		<ANSWERD value="false">The Lost Guys</ANSWERD>
+		<PRIZE>$16,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>9</ID>
+		<SUB>c</SUB>
+		<ASK>J. K. Rowling  is a British novelist, screenwriter and film producer best known as the author of the Harry Potter series. What does the "J. K." stand for?</ASK>
+		<ANSWERA value="false">Joanna Kathleen</ANSWERA>
+		<ANSWERB value="false">Joenne Kathleen</ANSWERB>
+		<ANSWERC value="false">Joanne Kaitlyn</ANSWERC>
+		<ANSWERD value="true">Joanne Kathleen</ANSWERD>
+		<PRIZE>$16,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>9</ID>
+		<SUB>d</SUB>
+		<ASK>What does NASCAR stand for?</ASK>
+		<ANSWERA value="false">National Association of Stock Car Automotive Race</ANSWERA>
+		<ANSWERB value="false">National Association of Stock Car Automotive Racing</ANSWERB>
+		<ANSWERC value="false">National Association of Stock Car Auto Race</ANSWERC>
+		<ANSWERD value="true">National Association of Stock Car Auto Racing</ANSWERD>
+		<PRIZE>$16,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>9</ID>
+		<SUB>e</SUB>
+		<ASK>Which of the following is the glucose in a plant not used for?</ASK>
+		<ANSWERA value="true">Camouflage</ANSWERA>
+		<ANSWERB value="false">Repair</ANSWERB>
+		<ANSWERC value="false">Reproduction</ANSWERC>
+		<ANSWERD value="false">Growth</ANSWERD>
+		<PRIZE>$16,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>10</ID>
+		<SUB>a</SUB>
+		<ASK>When Katie Holmes gave birth to Suri, it was child number ____ for Tom Cruise.</ASK>
+		<ANSWERA value="false">5</ANSWERA>
+		<ANSWERB value="false">2</ANSWERB>
+		<ANSWERC value="true">3</ANSWERC>
+		<ANSWERD value="false">4</ANSWERD>
+		<PRIZE>$32,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>10</ID>
+		<SUB>b</SUB>
+		<ASK>Spongebob Squarepants is a fictional character that was created by cartoonist and marine biologist Stephen Hillenburg. Exactly, how many eyelashes does Spongebob have on each eye?</ASK>
+		<ANSWERA value="false">1</ANSWERA>
+		<ANSWERB value="false">2</ANSWERB>
+		<ANSWERC value="true">3</ANSWERC>
+		<ANSWERD value="false">4</ANSWERD>
+		<PRIZE>$32,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>10</ID>
+		<SUB>c</SUB>
+		<ASK>What is the current (2016) engine size of MotoGP bikes?</ASK>
+		<ANSWERA value="false">695cc</ANSWERA>
+		<ANSWERB value="true">1000cc</ANSWERB>
+		<ANSWERC value="false">500cc</ANSWERC>
+		<ANSWERD value="false">250cc</ANSWERD>
+		<PRIZE>$32,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>10</ID>
+		<SUB>d</SUB>
+		<ASK>The Cold War was a state of political and military tension after World War II between powers in the Western Bloc and powers in the Eastern Bloc. When did the Cold War end?</ASK>
+		<ANSWERA value="false">1947</ANSWERA>
+		<ANSWERB value="true">1991</ANSWERB>
+		<ANSWERC value="false">1945</ANSWERC>
+		<ANSWERD value="false">1992</ANSWERD>
+		<PRIZE>$32,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>10</ID>
+		<SUB>e</SUB>
+		<ASK>In Egyptian mythology, who was the God of embalming who also watched over the dead?</ASK>
+		<ANSWERA value="false">Horus</ANSWERA>
+		<ANSWERB value="false">Isis</ANSWERB>
+		<ANSWERC value="false">Osiris</ANSWERC>
+		<ANSWERD value="true">Anubis</ANSWERD>
+		<PRIZE>$32,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>11</ID>
+		<SUB>a</SUB>
+		<ASK>What was Java (the programming language) called before it was Java?</ASK>
+		<ANSWERA value="false">Maple</ANSWERA>
+		<ANSWERB value="true">Oak</ANSWERB>
+		<ANSWERC value="false">Snoo</ANSWERC>
+		<ANSWERD value="false">C++ 2.0</ANSWERD>
+		<PRIZE>$64,000</PRIZE>
+	</QUESTION>
+		<QUESTION>
+		<ID>11</ID>
+		<SUB>b</SUB>
+		<ASK>Who is the Patron Saint of Spain?</ASK>
+		<ANSWERA value="true">Saint James</ANSWERA>
+		<ANSWERB value="false">Saint John</ANSWERB>
+		<ANSWERC value="false">Saint Benedict</ANSWERC>
+		<ANSWERD value="false">Saint Peter</ANSWERD>
+		<PRIZE>$64,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>11</ID>
+		<SUB>c</SUB>
+		<ASK>Which planet has a moon named Phobos that is predicted to possibly smash into the planet sometime within the next 30-50 million years?</ASK>
+		<ANSWERA value="false">Venus</ANSWERA>
+		<ANSWERB value="false">Jupiter</ANSWERB>
+		<ANSWERC value="true">Mars</ANSWERC>
+		<ANSWERD value="false">Uranus</ANSWERD>
+		<PRIZE>$64,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>11</ID>
+		<SUB>d</SUB>
+		<ASK>What is the painting 'La Gioconda' more usually known as?</ASK>
+		<ANSWERA value="false">The Stary Night</ANSWERA>
+		<ANSWERB value="false">The Scream</ANSWERB>
+		<ANSWERC value="false">Sir Bors</ANSWERC>
+		<ANSWERD value="true">The Mona Lisa</ANSWERD>
+		<PRIZE>$64,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>11</ID>
+		<SUB>e</SUB>
+		<ASK>In which country will the 2018 Winter Olympics be held?</ASK>
+		<ANSWERA value="false">Canada</ANSWERA>
+		<ANSWERB value="true">South Korea</ANSWERB>
+		<ANSWERC value="false">Germany</ANSWERC>
+		<ANSWERD value="false">France</ANSWERD>
+		<PRIZE>$64,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>12</ID>
+		<SUB>a</SUB>
+		<ASK>"Computers are useless. They can only give you ____" - Pablo Picasso</ASK>
+		<ANSWERA value="false">Numbers</ANSWERA>
+		<ANSWERB value="true">Answers</ANSWERB>
+		<ANSWERC value="false">Headaches</ANSWERC>
+		<ANSWERD value="false">Pictures</ANSWERD>
+		<PRIZE>$125,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>12</ID>
+		<SUB>b</SUB>
+		<ASK>Dinosaurs are a diverse group of animals of the clade Dinosauria that first appeared during the Triassic period. The word "dinosaur" comes from the Greek that means ____.</ASK>
+		<ANSWERA value="false">Godless creature</ANSWERA>
+		<ANSWERB value="false">Hairless monster</ANSWERB>
+		<ANSWERC value="false">Ancient ruler</ANSWERC>
+		<ANSWERD value="true">Fearfully-great lizard</ANSWERD>
+		<PRIZE>$125,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>12</ID>
+		<SUB>c</SUB>
+		<ASK>Charles Darwin was an English naturalist and geologist, best known for his contributions to the science of evolution. When was Charles Darwin born?</ASK>
+		<ANSWERA value="true">12 February 1809</ANSWERA>
+		<ANSWERB value="false">19 April 1882</ANSWERB>
+		<ANSWERC value="false">12 February 1808</ANSWERC>
+		<ANSWERD value="false">19 April 1881</ANSWERD>
+		<PRIZE>$125,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>12</ID>
+		<SUB>d</SUB>
+		<ASK>Which one from the following is not the slang words for money?</ASK>
+		<ANSWERA value="false">Bucks</ANSWERA>
+		<ANSWERB value="false">Stacks</ANSWERB>
+		<ANSWERC value="true">Snicks</ANSWERC>
+		<ANSWERD value="false">Dime</ANSWERD>
+		<PRIZE>$125,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>12</ID>
+		<SUB>e</SUB>
+		<ASK>What flower, known to symbolise innocence and purity, is associated with an idiom meaning "to be dead and buried"?</ASK>
+		<ANSWERA value="false">Rose</ANSWERA>
+		<ANSWERB value="true">Daisy</ANSWERB>
+		<ANSWERC value="false">Tulip</ANSWERC>
+		<ANSWERD value="false">Dahlia</ANSWERD>
+		<PRIZE>$125,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>13</ID>
+		<SUB>a</SUB>
+		<ASK>Who is the only U.S. president buried in Washington D.C.?</ASK>
+		<ANSWERA value="false">Abraham Lincoln</ANSWERA>
+		<ANSWERB value="false">George Washington</ANSWERB>
+		<ANSWERC value="true">Woodrow Wilson</ANSWERC>
+		<ANSWERD value="false">J.F. Kennedy</ANSWERD>
+		<PRIZE>$250,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>13</ID>
+		<SUB>b</SUB>
+		<ASK>Quidditch is a competitive sport in the Wizarding World of the Harry Potter universe. How many players are there on a Quidditch team?</ASK>
+		<ANSWERA value="false">6</ANSWERA>
+		<ANSWERB value="true">7</ANSWERB>
+		<ANSWERC value="false">8</ANSWERC>
+		<ANSWERD value="false">9</ANSWERD>
+		<PRIZE>$250,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>13</ID>
+		<SUB>c</SUB>
+		<ASK>In what year did Christian Dior launch the first line of clothing bearing his name?</ASK>
+		<ANSWERA value="false">1921</ANSWERA>
+		<ANSWERB value="true">1947</ANSWERB>
+		<ANSWERC value="false">1957</ANSWERC>
+		<ANSWERD value="false">1970</ANSWERD>
+		<PRIZE>$250,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>13</ID>
+		<SUB>d</SUB>
+		<ASK>What is the science of adult learning called?</ASK>
+		<ANSWERA value="false">Pedagogy</ANSWERA>
+		<ANSWERB value="false">Psychology</ANSWERB>
+		<ANSWERC value="true">Andragogy</ANSWERC>
+		<ANSWERD value="false">None of these</ANSWERD>
+		<PRIZE>$250,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>13</ID>
+		<SUB>e</SUB>
+		<ASK>The Association of South East Asian Nations (ASEAN) was formed by _____ on _____.</ASK>
+		<ANSWERA value="false">Indonesia, 8 August 1957</ANSWERA>
+		<ANSWERB value="false">Philippines, 8 August 1957</ANSWERB>
+		<ANSWERC value="true">Indonesia, 8 August 1967</ANSWERC>
+		<ANSWERD value="false">Philippines, 8 August 1967</ANSWERD>
+		<PRIZE>$250,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>14</ID>
+		<SUB>a</SUB>
+		<ASK>Which of the following is not a sign or symptom of hypothermia?</ASK>
+		<ANSWERA value="true">Frostbite</ANSWERA>
+		<ANSWERB value="false">Numbness</ANSWERB>
+		<ANSWERC value="false">Shivering</ANSWERC>
+		<ANSWERD value="false">Lack of coordination</ANSWERD>
+		<PRIZE>$500,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>14</ID>
+		<SUB>b</SUB>
+		<ASK>What colour jersey is won by the leader in the Tour de France?</ASK>
+		<ANSWERA value="false">Yellow</ANSWERA>
+		<ANSWERB value="true">White</ANSWERB>
+		<ANSWERC value="false">Green</ANSWERC>
+		<ANSWERD value="false">White with red polkadots</ANSWERD>
+		<PRIZE>$500,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>14</ID>
+		<SUB>c</SUB>
+		<ASK>What is the literal translation of haute couture?</ASK>
+		<ANSWERA value="false">High fashion</ANSWERA>
+		<ANSWERB value="true">High sewing</ANSWERB>
+		<ANSWERC value="false">High cutting</ANSWERC>
+		<ANSWERD value="false">High style</ANSWERD>
+		<PRIZE>$500,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>14</ID>
+		<SUB>d</SUB>
+		<ASK>This capital is often called the 'white city of the north' because many of its buildings are constructed of a local light colored granite. The city was ravaged by plague in 1710 and burnt to the ground in 1713 and again in 1808.</ASK>
+		<ANSWERA value="false">Oslo, Norway</ANSWERA>
+		<ANSWERB value="true">Helsinki, Finland</ANSWERB>
+		<ANSWERC value="false">Riga, Latvia</ANSWERC>
+		<ANSWERD value="false">Stockholm, Sweden</ANSWERD>
+		<PRIZE>$500,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>14</ID>
+		<SUB>e</SUB>
+		<ASK>What street does Spongebob Squarepants live on?</ASK>
+		<ANSWERA value="false">Bikini Bottom</ANSWERA>
+		<ANSWERB value="false">Shell Street</ANSWERB>
+		<ANSWERC value="true">Conch Street</ANSWERC>
+		<ANSWERD value="false">Ocean Avenue</ANSWERD>
+		<PRIZE>$500,000</PRIZE>
+	</QUESTIONS>	
+
+	<QUESTION>
+		<ID>15</ID>
+		<SUB>a</SUB>
+		<ASK>Who is the creator of the JavaScript scripting language?</ASK>
+		<ANSWERA value="false">Larry Wall</ANSWERA>
+		<ANSWERB value="true">Brendan Eich</ANSWERB>
+		<ANSWERC value="false">John Ousterhout</ANSWERC>
+		<ANSWERD value="false">Sergey Brin</ANSWERD>
+		<PRIZE>$1,000,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>15</ID>
+		<SUB>b</SUB>
+		<ASK>In 1781, what was the first planet to be discovered using the telescope?</ASK>
+		<ANSWERA value="false">Mars</ANSWERA>
+		<ANSWERB value="true">Uranus</ANSWERB>
+		<ANSWERC value="false">Venus</ANSWERC>
+		<ANSWERD value="false">Jupiter</ANSWERD>
+		<PRIZE>$1,000,000</PRIZE>
+	</QUESTION>
+	<QUESTION>
+		<ID>15</ID>
+		<SUB>c</SUB>
+		<ASK>Peter Gene Hernandez  is an American singer-songwriter, multi-instrumentalist, record producer, and choreographer. What is Hernandez's popular name? </ASK>
+		<ANSWERA value="false">Pharell Williams</ANSWERA>
+		<ANSWERB value="false">Taio Cruz</ANSWERB>
+		<ANSWERC value="false">Boy George</ANSWERC>
+		<ANSWERD value="true">Bruno Mars</ANSWERD>
+		<PRIZE>$1,000,000</PRIZE>
+	</QUESTION>
+	<QUESTIONS>
+		<ID>15</ID>
+		<SUB>d</SUB>
+		<ASK>Buckingham Palace is the London residence and administrative headquarters of the reigning monarch of the United Kingdom. According to the BBC how many rooms are there in Buckingham Palace?</ASK>
+		<ANSWERA value="false">188</ANSWERA>
+		<ANSWERB value="false">528</ANSWERB>
+		<ANSWERC value="true">755</ANSWERC>
+		<ANSWERD value="false">812</ANSWERD>
+		<PRIZE>$1,000,000</PRIZE>
+	</QUESTIONS>
+	<QUESTIONS>
+		<ID>15</ID>
+		<SUB>e</SUB>
+		<ASK>How long, in kilometres, is the current Suez Canal?</ASK>
+		<ANSWERA value="true">193.30</ANSWERA>
+		<ANSWERB value="false">120.11</ANSWERB>
+		<ANSWERC value="false">102.02</ANSWERC>
+		<ANSWERD value="false">164.35</ANSWERD>
+		<PRIZE>$1,000,000</PRIZE>
+	</QUESTIONS>	
+</LIST>

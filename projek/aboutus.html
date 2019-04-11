@@ -1,0 +1,89 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Who Wants to be a Millionaire? - About Us</title>
+	<link rel="stylesheet" type="text/css" href="aboutus.css">
+	<link rel="stylesheet" type="text/css" href="w3.css">
+</head>
+<body class="black">
+	<audio autoplay loop>
+   		<source src="auswahlrunde_loesung.mp3" >
+  	</audio>
+		<div class="white">
+		<div class="center black padding-8">
+			<h1>About Us</h1>
+		</div>
+		<div class="w3-container w3-padding-top">
+		  <div class="w3-accordion w3-light-grey">
+		    <button onclick="myFunction('Demo1')" class="w3-btn-block col-m-3 w3-grey w3-hover-cyan" style="position: relative;">Pinguin Team</button>
+		    <div id="Demo1" class="w3-accordion-content w3-container w3-animate-top">
+		        <div class="w3-container">
+				  <div id="ourinfo" class="center" style="overflow-x: auto;">
+						<table class="padding-16">
+							<thead>
+								<tr style="color:black;">
+									<th>NIM</th>
+									<th>Name</th>
+									<th>Foto</th>
+								</tr>
+							</thead>
+							<tbody style="color:black;">
+								<tr>
+									<td data-label="NIM">00000015723</td>
+									<td data-label="Name">Tio Jesslyn P. C.</td>
+									<td data-label="Foto">
+										<button onclick="document.getElementById('id01').style.display='block'" class="w3-btn">Click Me!</button>
+									</td>
+									  <div id="id01" class="w3-modal">
+									    <div class="w3-modal-content w3-animate-top w3-card-8">									 
+									    	<img src="elin.jpg" style="width: 50%">
+									    	<span onclick="document.getElementById('id01').style.display='none'" class="w3-closebtn w3-white">&times;</span>
+									    </div>
+									  </div>
+								</tr>
+								<tr>
+									<td data-label="NIM">00000015928</td>
+									<td data-label="Name">Felicia Priscilla Lovely</td>				
+									<td data-label="Foto">
+										<button onclick="document.getElementById('id02').style.display='block'" class="w3-btn">Click Me!</button>
+									</td>
+									<div id="id02" class="w3-modal">
+									   <div class="w3-modal-content w3-animate-top w3-card-8">									 
+									    	<img src="feli.jpeg" style="width: 50%">
+									    	<span onclick="document.getElementById('id02').style.display='none'" class="w3-closebtn w3-white">&times;</span>
+									   </div>
+									</div>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+		    </div>
+		  </div>
+		</div>
+
+		<script>
+		function myFunction(id) {
+		    var x = document.getElementById(id);
+		    if (x.className.indexOf("w3-show") == -1) {
+		        x.className += " w3-show";
+		        x.previousElementSibling.className += " w3-red";
+		    } else {
+		        x.className = x.className.replace(" w3-show", "");
+		        x.previousElementSibling.className =
+		        x.previousElementSibling.className.replace(" w3-red", "");
+		    }
+		}
+		</script>
+		<a href="menu.html" style="text-decoration: none; color: black">
+			<div class="padding-16 menu col-2">
+				Back to Menu
+			</div>
+		</a>
+		<footer id = "footer" class="black padding-8" style="color:white;">
+			Universitas Multimedia Nusantara 2018
+		</footer>
+		</div>
+</body>
+</html>
